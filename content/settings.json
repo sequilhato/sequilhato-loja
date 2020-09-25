@@ -4,7 +4,7 @@
   "primary_color": "#802e34",
   "theme": {
     "bootswatch": "litera",
-    "custom": "clean-white"
+    "custom": "_"
   },
   "bg_color": "#faedda",
   "logo": "/img/uploads/logo-sequilhato.png",
