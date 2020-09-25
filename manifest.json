@@ -26,12 +26,12 @@
       "type": "image/png"
     }
   ],
-  "name": "sequilhato",
-  "short_name": "sequilhato",
+  "name": "Sequilhato",
+  "short_name": "Sequilhato",
   "orientation": "portrait",
   "display": "standalone",
   "start_url": ".",
-  "description": "sequilhato",
-  "background_color": "#fff",
-  "theme_color": "#313131"
+  "description": "Sequilhos finos com ingredientes selecionados e sabor único!",
+  "background_color": "#faedda",
+  "theme_color": "#802e34"
 }
