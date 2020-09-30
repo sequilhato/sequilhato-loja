@@ -32,6 +32,6 @@
   "display": "standalone",
   "start_url": ".",
   "description": "Sequilhos finos com ingredientes selecionados e sabor único!",
-  "background_color": "#faedda",
+  "background_color": "#fafafa",
   "theme_color": "#802e34"
 }
