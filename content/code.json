@@ -1,5 +1,5 @@
 {
-  "css": "",
+  "css": ".top-bar__nav {\n    max-width: 0;\n}",
   "html_head": "",
   "html_body": ""
 }
