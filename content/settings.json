@@ -6,7 +6,7 @@
     "bootswatch": "minty",
     "custom": "_"
   },
-  "bg_color": "#faedda",
+  "bg_color": "#fafafa",
   "logo": "/img/uploads/logo-sequilhato.png",
   "name": "Sequilhato",
   "short_name": "Sequilhato",
@@ -15,7 +15,7 @@
   "mini_logo": "",
   "favicon": "/img/uploads/favicon-sequilhato.png",
   "country_code": "BR",
-  "secondary_color": "#ffe489",
+  "secondary_color": "#803e34",
   "icon": "/img/icon.png",
   "store_id": 1164,
   "description": "Sequilhos finos com ingredientes selecionados e sabor único!",
