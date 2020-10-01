@@ -1,5 +1,5 @@
 {
-  "css": "/*Retirar top bar*/\n.top-bar__nav {\n    max-width: 0;\n}\n\n@media (min-width: 768px){\n    .d-md-block {\n      display: none!important;\n     }\n}\n\n/*Cor cabeçalho*/\n.header {\n    background: #ffffff;\n}\n\n@font-face {\n  font-family: \"Symbol Book SSi\";\n  src: url(\"/symbol-book-ssi-book.ttf\");\n}\n\nbody {\n    font-family: Symbol Book SSi;\n}",
+  "css": "/*Retirar top bar*/\n.top-bar__nav {\n    max-width: 0;\n}\n\n@media (min-width: 768px){\n    .d-md-block {\n      display: none!important;\n     }\n  \n    .header__nav {\n      font-size: 16px;\n     }\n}\n\n/*Cor cabeçalho*/\n.header {\n    background: #ffffff;\n}\n\n@font-face {\n  font-family: \"Symbol Book SSi\";\n  src: url(\"/symbol-book-ssi-book.ttf\");\n}\n\nbody {\n    font-family: Symbol Book SSi;\n}",
   "html_head": "",
   "html_body": ""
 }
