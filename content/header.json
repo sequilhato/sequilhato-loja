@@ -2,8 +2,8 @@
   "marketing_stripe": {
     "text": "Compre no ATACADO! ",
     "link": "/promotion",
-    "background": "#802e34",
-    "color": "#ffffff"
+    "background": "#ffffff",
+    "color": "#802e34"
   },
   "contacts_stripe": {
     "pages": [],
