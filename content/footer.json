@@ -6,7 +6,16 @@
   "links_1": {
     "list_pages": true,
     "title": "Páginas",
-    "list": []
+    "list": [
+      {
+        "text": "Sobre Nós",
+        "url": "https://www.sequilhato.com.br/sobre/"
+      },
+      {
+        "text": "Contato",
+        "url": "https://www.sequilhato.com.br/fale-conosco/"
+      }
+    ]
   },
   "links_2": {
     "list_categories": true,
