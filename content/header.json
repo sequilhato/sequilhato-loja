@@ -2,8 +2,8 @@
   "marketing_stripe": {
     "text": "FRETE GRÁTIS EM PEDIDOS A PARTIR DE 149",
     "link": "",
-    "background": "#ffffff",
-    "color": "#802e34"
+    "background": "#802e34",
+    "color": "#ffffff"
   },
   "contacts_stripe": {
     "pages": [],
