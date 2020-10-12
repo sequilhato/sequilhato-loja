@@ -20,7 +20,12 @@
   "links_2": {
     "list_categories": true,
     "title": "Categorias",
-    "list": []
+    "list": [
+      {
+        "text": "Contato",
+        "url": "https://www.sequilhato.com.br/fale-conosco/"
+      }
+    ]
   },
   "contacts": {
     "title": "Contatos",
