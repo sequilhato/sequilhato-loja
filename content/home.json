@@ -7,6 +7,12 @@
       "autoplay": 9000,
       "slides": [
         {
+          "start": "2020-10-13T17:07:12.937Z",
+          "end": "2021-05-06T17:07:12.981Z",
+          "img": "/img/uploads/cidades_frete.png",
+          "mobile_img": "/img/uploads/1080x180.png"
+        },
+        {
           "img": "/img/uploads/fullbanner.png",
           "link": "https://sequilhato-loja.netlify.app/sequilhos-pastel-queijo-com-goiaba",
           "alt": "",
